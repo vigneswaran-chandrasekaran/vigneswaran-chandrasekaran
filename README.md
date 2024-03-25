@@ -4,7 +4,8 @@ I just wanted to check this feature.
 
 Here is a Peter Griffin dancing gif,
 
-<iframe src="https://giphy.com/embed/l0HlSH2gsSrxJySnS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/family-guy-fox-family-guy-foxtv-l0HlSH2gsSrxJySnS">via GIPHY</a></p>
+<img src="gify.gif" src="dance.gif">
+<p><a href="https://giphy.com/gifs/family-guy-fox-family-guy-foxtv-l0HlSH2gsSrxJySnS">via GIPHY</a></p>
 
 <!--
 **vigneswaran-chandrasekaran/vigneswaran-chandrasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
