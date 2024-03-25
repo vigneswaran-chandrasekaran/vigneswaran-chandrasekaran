@@ -4,7 +4,7 @@ I just wanted to check this feature.
 
 Here is a Peter Griffin dancing gif,
 
-<img src="gify.gif" src="dance.gif">
+<img src="giphy.gif" src="dance.gif">
 <p><a href="https://giphy.com/gifs/family-guy-fox-family-guy-foxtv-l0HlSH2gsSrxJySnS">via GIPHY</a></p>
 
 <!--
