@@ -1,12 +1,5 @@
 ### Hi there 👋🙂
 
-I just wanted to check this feature. 
-
-Here is a Peter Griffin dancing gif,
-
-<img src="giphy.gif" src="dance.gif">
-<p><a href="https://giphy.com/gifs/family-guy-fox-family-guy-foxtv-l0HlSH2gsSrxJySnS">via GIPHY</a></p>
-
 <!--
 **vigneswaran-chandrasekaran/vigneswaran-chandrasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
